@@ -8,6 +8,8 @@ Example queries:
 -   What is the significance of the Magna Carta?
 -   Summarize the history of the Roman Empire
 
+![Chatwiki](./.readme/chatbot.png)
+
 ## Key Features
 
 -   Simplifies complex Wikipedia content
@@ -26,6 +28,8 @@ Example queries:
 -   Enhances the overall Wikipedia experience
 
 ## Tech Stack
+
+![System Architecture](./.readme/system-architecture.png)
 
 ### Frontend
 
